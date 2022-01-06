@@ -1,0 +1,1 @@
+{"data":[{"campus":"OIC","gakki":"\u6625\u30bb\u30e1\u30b9\u30bf\u30fc","gakubu":"\u7d4c\u55b6\u5b66\u90e8","lang":"English","number":"51574:\u82f1\u8a9e\uff33\uff11(C1)","pro":"HOSBACH JOSEPH M.","tani":"1","url":"https://ct.ritsumei.ac.jp/syllabuspage/26/de/3d/00_pc_ja.html","yobi":"\u91d12"}]}
